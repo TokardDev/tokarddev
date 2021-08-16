@@ -26,15 +26,16 @@ Discord: Tokageki#8534
 Twitter: Tokageki
 ```
 
-<p align="right">
-  
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
      <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats"
+      src="https://github-readme-streak-stats.herokuapp.com?user=malte-linke&theme=dark&hide_border=true&background=00000000&count_private=true&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC"
       align="left"
       style="width: 100%"
       width="47%"
     />
-  
+  </a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
