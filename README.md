@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ```py
 Pronouns: He/Him
 Location: France
-Learning: Python and C++
+Learning: Python/C++
 Hobbies: Gaming, Drawing, Programming
 Discord: Tokageki#8534
 Twitter: Tokageki
