@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="left" src="https://avatars.githubusercontent.com/u/58886109?v=4" alt="pfp" width="270"/>
+
+```csharp
+Pronouns: He/Him
+Location: France
+Languages: Python, a litle C# and c ++
+Hobbies: gaming, drawing programming
+Discord: Tokageki#8534
+Twitter: Tokageki
+```
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokageki&hide=issues&show_icons=true&theme=radical)
