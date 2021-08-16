@@ -26,7 +26,7 @@ Discord: Tokageki#8534
 Twitter: Tokageki
 ```
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff9837" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tokageki&hide=issues,prs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
