@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://avatars.githubusercontent.com/u/58886109?v=4" alt="pfp" width="270"/>
 
-```csharp
+```py
 Pronouns: He/Him
 Location: France
-Languages: Python, a litle C# and c ++
+Languages: Python, a litle C# and c++
 Hobbies: gaming, drawing programming
 Discord: Tokageki#8534
 Twitter: Tokageki
