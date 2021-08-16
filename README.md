@@ -25,20 +25,6 @@ Hobbies: Gaming, Drawing, Programming
 Discord: Tokageki#8534
 Twitter: Tokageki
 ```
-
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=radical&hide_border=true&count_private=true&ring=02FAFC&fire=02FAFC"
-          
-      align="left"
-      style="width: 100%"
-      width="47%"
-    />
-  </a>
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokageki&hide=issues&show_icons=true&theme=radical)
