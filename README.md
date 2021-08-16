@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://avatars.githubusercontent.com/u/58886109?v=4" alt="pfp" width="300"/>
+<img align="left" src="https://avatars.githubusercontent.com/u/58886109?v=4" alt="pfp" width="325"/>
 
 ```py
 Pronouns: He/Him
