@@ -26,6 +26,17 @@ Discord: Tokageki#8534
 Twitter: Tokageki
 ```
 
+<p align="right">
+  
+     <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats"
+      align="left"
+      style="width: 100%"
+      width="47%"
+    />
+  
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokageki&hide=issues&show_icons=true&theme=radical)
