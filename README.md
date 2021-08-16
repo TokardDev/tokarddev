@@ -30,7 +30,8 @@ Twitter: Tokageki
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
      <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=malte-linke&theme=dark&hide_border=true&background=00000000&count_private=true&ring=02FAFC&fire=02FAFC&currStreakLabel=02FAFC"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=radical&hide_border=true&count_private=true&ring=02FAFC&fire=02FAFC"
+          
       align="left"
       style="width: 100%"
       width="47%"
