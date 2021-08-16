@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ```py
 Pronouns: He/Him
 Location: France
-Languages: Python, a litle C# and c++
-Hobbies: gaming, drawing programming
+learning: Python, C#, c++
+Hobbies: gaming, drawing, programming
 Discord: Tokageki#8534
 Twitter: Tokageki
 ```
