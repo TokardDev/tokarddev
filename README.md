@@ -22,7 +22,7 @@ Pronouns: He/Him
 Location: France
 Learning: Python/C++
 Hobbies: Gaming, Drawing, Programming
-Discord: Tokageki#8534
+Discord: Tokar#8534
 Twitter: Tokageki
 ```
 <a href="https://github.com/anuraghazra/github-readme-stats">
