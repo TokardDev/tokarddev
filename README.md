@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 
 ```py
 Pronouns: He/Him
-Location: France
+Location: Toulouse, France
 Learning: Python/C++
 Hobbies: Gaming, Drawing, Programming
-Discord: Tokard#8534
-Twitter: Tokageki
 ```
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokageki&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff9837" />
