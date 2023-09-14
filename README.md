@@ -1,7 +1,7 @@
 
 
 <!--
-**tokageki/tokageki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AugeixAdrien/AugeixAdrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://cdn.discordapp.com/attachments/828942054783975454/892078264930144266/icon32.png" alt="pfp" width="160"/>
+<img align="left" src="https://avatars.githubusercontent.com/u/58886109?v=4" alt="pfp" width="160"/>
 
 ```py
 Pronouns: He/Him
