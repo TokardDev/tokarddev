@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ```py
 Pronouns: He/Him
 Location: Toulouse, France
-Learning: Python/C++/Java/PHP/JS
+Using: Python/Kotlin/C++
 Hobbies: Drawing, Programming, Music
 ```
 <a href="https://github.com/anuraghazra/github-readme-stats">
