@@ -3,6 +3,6 @@
 ```py
 Pronouns: He/Him
 Location: Toulouse, France
-Using: Python/Kotlin/C++
+Using: Python/Kotlin/C++/PHP/JS...
 Hobbies: Drawing, Programming, Music
 ```
