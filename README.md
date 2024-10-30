@@ -3,6 +3,6 @@
 ```py
 Pronouns: They/Them
 Location: Toulouse, France
-Using: Python/Kotlin/C++/PHP/JS...
+Using: Python/Kotlin/C++/JS/C#...
 Hobbies: Drawing, Programming, Music
 ```
