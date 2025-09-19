@@ -4,5 +4,5 @@
 Pronouns: They/Them
 Location: Toulouse, France
 Using: Python/Kotlin/C++/JS/C#...
-Hobbies: Drawing, Programming, Music
+Hobbies: Drawing, Programming, Music, Photography
 ```
